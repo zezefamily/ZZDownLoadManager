@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZZDownLoadManager_Example' do
+  pod 'ZZDownLoadManager', :path => '../'
+
+  target 'ZZDownLoadManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
