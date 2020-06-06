@@ -7,7 +7,7 @@
 //
 
 #import "ZZViewController.h"
-
+#import "ZZDownLoader.h"
 @interface ZZViewController ()
 
 @end
